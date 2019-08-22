@@ -6,7 +6,7 @@ Micropython projects running on ESP8266 microcontroller
 Ticker in action
 ![Booting up](https://media.giphy.com/media/lQfmvfyEH8MuY5ISWa/giphy.gif)
 
-![Showing Data](https://media.giphy.com/media/h8IQOL3aufHzPZuZuN/giphy.gif)
+![Showing Data](https://i.giphy.com/media/h8IQOL3aufHzPZuZuN/giphy.webp)
 
 
 This project was built in part as a means to learn micropython which is basically a subset of python with limited libraries.
