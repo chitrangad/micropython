@@ -1,6 +1,3 @@
-# micropython
-Micropython projects running on ESP8266 microcontroller
-
 # Weather, Stocks and Crypto Ticker using Wemos D1 mini and SSD1306 OLED screen
 
 ## Ticker in action
