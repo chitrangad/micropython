@@ -3,7 +3,11 @@ Micropython projects running on ESP8266 microcontroller
 
 # Weather, Stocks and Crypto Ticker using D1 mini and SSD1306 OLED screen
 
-This project is about a small display which shows:
+This project was built in part as a means to learn micropython which is basically a subset of python with limited libraries.
+eventually, I found it pretty useful as a standalone device showing current weather and stock prices without having to pick up the phoen or open a browser on my desktop.
+
+The tiny 1" display shows:
+
 1. Weather for mutiple cities
 2. Crypto or forex prices of your choice
 3. Cycle thru 5 chosen stock prices - current price, min /max, % change
