@@ -8,7 +8,7 @@
 
 
 This project was built in part as a means to learn micropython which is basically a subset of python with limited libraries.
-eventually, I found it pretty useful as a standalone device showing current weather and stock prices without having to pick up the phoen or open a browser on my desktop.
+Eventually, I found it pretty useful as a standalone device showing current weather and stock prices without having to pick up the phone or open a browser on my desktop.
 
 The tiny 1" display shows:
 
