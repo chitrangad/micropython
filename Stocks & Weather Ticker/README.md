@@ -25,7 +25,7 @@ World Trading allows 250 calls in 24 hrs for a free acocunt. the code handles th
 You can change this to update more frequently if you do not intend to run 24x7.
 
 # Usage:
-1. Burn the latest micropython intertretor on ESP8266 (I use D1 mini which has a built-in USB controller).
+1. Burn the latest micropython interpretor on ESP8266 (I use D1 mini which has a built-in USB controller).
    http://micropython.org/download#esp8266
 2. Edit boot.py with your wifi credentials (2.4 ghz)
 3. Edit main_led_multicity.py with your api keys and your choice of cities/stocks/forex.
